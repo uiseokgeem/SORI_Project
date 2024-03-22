@@ -9,10 +9,11 @@
 
 ------------------------------
 [SORI_포트폴리오.pdf](https://github.com/uiseokgeem/SORI_Project/files/14715423/SORI_.pdf)
+<br>
+</br>
 [SORI_ 기획안.pdf](https://github.com/uiseokgeem/SORI_Project/files/14715430/SORI_.pdf)
 
 <br>
-
 </br>
 
 ## 역할 분담 
